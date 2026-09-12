@@ -1,0 +1,578 @@
+F:\C#\C#PBL3\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\PBL3_QuanLyQuanCafe.exe.config
+F:\C#\C#PBL3\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\PBL3_QuanLyQuanCafe.exe
+F:\C#\C#PBL3\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\PBL3_QuanLyQuanCafe.pdb
+F:\C#\C#PBL3\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\FontAwesome.Sharp.dll
+F:\C#\C#PBL3\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.csproj.AssemblyReference.cache
+F:\C#\C#PBL3\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.csproj.SuggestedBindingRedirects.cache
+F:\C#\C#PBL3\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fMain.resources
+F:\C#\C#PBL3\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.Properties.Resources.resources
+F:\C#\C#PBL3\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.csproj.GenerateResource.cache
+F:\C#\C#PBL3\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+F:\C#\C#PBL3\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.csproj.CopyComplete
+F:\C#\C#PBL3\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.exe
+F:\C#\C#PBL3\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.pdb
+F:\C#\C#PBL3\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fLogin.resources
+F:\C#\C#PBL3\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fBanHang.resources
+F:\C#\C#PBL3\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fSanPham.resources
+F:\C#\C#PBL3\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fThemSanPham.resources
+F:\C#\C#PBL3\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.FCapNhatSanPham.resources
+F:\C#\C#PBL3\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fDanhMuc.resources
+F:\C#\C#PBL3\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fThemDanhMuc.resources
+F:\C#\C#PBL3\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fCapNhatDanhMuc.resources
+F:\C#\C#PBL3\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fBan.resources
+F:\C#\C#PBL3\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fThemBan.resources
+F:\C#\C#PBL3\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fCapNhatBan.resources
+F:\C#\C#PBL3\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fNhanVien.resources
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe_Edit\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\PBL3_QuanLyQuanCafe.exe.config
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe_Edit\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\PBL3_QuanLyQuanCafe.exe
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe_Edit\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\PBL3_QuanLyQuanCafe.pdb
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe_Edit\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe_Edit\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.csproj.AssemblyReference.cache
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe_Edit\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.csproj.SuggestedBindingRedirects.cache
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe_Edit\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fBan.resources
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe_Edit\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fBanHang.resources
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe_Edit\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fCapNhatBan.resources
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe_Edit\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fCapNhatDanhMuc.resources
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe_Edit\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fDanhMuc.resources
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe_Edit\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fLogin.resources
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe_Edit\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fMain.resources
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe_Edit\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fNhanVien.resources
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe_Edit\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fSanPham.resources
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe_Edit\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fThemBan.resources
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe_Edit\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fThemDanhMuc.resources
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe_Edit\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fThemSanPham.resources
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe_Edit\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.FCapNhatSanPham.resources
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe_Edit\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe_Edit\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.csproj.GenerateResource.cache
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe_Edit\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe_Edit\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.csproj.CopyComplete
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe_Edit\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.exe
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe_Edit\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.pdb
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\PBL3_QuanLyQuanCafe.exe.config
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\PBL3_QuanLyQuanCafe.exe
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\PBL3_QuanLyQuanCafe.pdb
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fBan.resources
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fBanHang.resources
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fCapNhatBan.resources
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fCapNhatDanhMuc.resources
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fDanhMuc.resources
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fLogin.resources
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fMain.resources
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fNhanVien.resources
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fSanPham.resources
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fThemBan.resources
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fThemDanhMuc.resources
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fThemNhanVien.resources
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fThemSanPham.resources
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.FCapNhatSanPham.resources
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.csproj.CopyComplete
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.exe
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.pdb
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.settlePayment.resources
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fthongke.resources
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\EnvDTE.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\stdole.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Downloads\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.receipt.resources
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\PBL3_QuanLyQuanCafe.exe.config
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\PBL3_QuanLyQuanCafe.exe
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\PBL3_QuanLyQuanCafe.pdb
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\FontAwesome.Sharp.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\EnvDTE.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\stdole.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.csproj.AssemblyReference.cache
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.csproj.SuggestedBindingRedirects.cache
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fBan.resources
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fBanHang.resources
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fCapNhatBan.resources
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fCapNhatDanhMuc.resources
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fDanhMuc.resources
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fLogin.resources
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fMain.resources
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fNhanVien.resources
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fSanPham.resources
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fThemBan.resources
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fThemDanhMuc.resources
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fThemNhanVien.resources
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fThemSanPham.resources
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.FCapNhatSanPham.resources
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fthongke.resources
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.Properties.Resources.resources
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.receipt.resources
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.settlePayment.resources
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.csproj.GenerateResource.cache
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.csproj.CopyComplete
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.exe
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.pdb
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fDoiMK.resources
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.SalaryForm.resources
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.TableForm.resources
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.MyTextBox.resources
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.ChartForm.resources
+F:\1\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.BillForm.resources
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\PBL3_QuanLyQuanCafe.exe.config
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\PBL3_QuanLyQuanCafe.exe
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\PBL3_QuanLyQuanCafe.pdb
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\EnvDTE.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\stdole.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.csproj.AssemblyReference.cache
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.csproj.SuggestedBindingRedirects.cache
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.BillForm.resources
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.ChartForm.resources
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fBan.resources
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fBanHang.resources
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fCapNhatBan.resources
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fCapNhatDanhMuc.resources
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fDanhMuc.resources
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fDoiMK.resources
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fLogin.resources
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fMain.resources
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fNhanVien.resources
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fSanPham.resources
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fThemBan.resources
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fThemDanhMuc.resources
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fThemNhanVien.resources
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fThemSanPham.resources
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.FCapNhatSanPham.resources
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.receipt.resources
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.SalaryForm.resources
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.settlePayment.resources
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.csproj.GenerateResource.cache
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.csproj.CopyComplete
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.exe
+C:\Users\PHUOCSANG\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.pdb
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\PBL3_QuanLyQuanCafe.exe.config
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\PBL3_QuanLyQuanCafe.exe
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\PBL3_QuanLyQuanCafe.pdb
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\EnvDTE.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\stdole.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.BillForm.resources
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.ChartForm.resources
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fBan.resources
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fBanHang.resources
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fCapNhatBan.resources
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fCapNhatDanhMuc.resources
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fDanhMuc.resources
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fDoiMK.resources
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fLogin.resources
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fMain.resources
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fNhanVien.resources
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fSanPham.resources
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fThemBan.resources
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fThemDanhMuc.resources
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fThemNhanVien.resources
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fThemSanPham.resources
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.FCapNhatSanPham.resources
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.receipt.resources
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.SalaryForm.resources
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.settlePayment.resources
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.csproj.CopyComplete
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.exe
+C:\Users\ASUS\Downloads\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe (4)\PBL3_QuanLyQuanCafe\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.pdb
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\PBL3_QuanLyQuanCafe.exe.config
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\PBL3_QuanLyQuanCafe.exe
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\PBL3_QuanLyQuanCafe.pdb
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\EnvDTE.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.csproj.AssemblyReference.cache
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.BillForm.resources
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.ChartForm.resources
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fBan.resources
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fBanHang.resources
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fCapNhatBan.resources
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fCapNhatDanhMuc.resources
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fDanhMuc.resources
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fDoiMK.resources
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fLogin.resources
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fMain.resources
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fNhanVien.resources
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fSanPham.resources
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fThemBan.resources
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fThemDanhMuc.resources
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fThemNhanVien.resources
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.fThemSanPham.resources
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.FCapNhatSanPham.resources
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.receipt.resources
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.SalaryForm.resources
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.settlePayment.resources
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.csproj.GenerateResource.cache
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.csproj.CopyComplete
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.exe
+C:\Users\nhann\OneDrive\Documents\Android\C#\PBL3-coffee-management\PBL3_QuanLyQuanCafe\obj\Debug\PBL3_QuanLyQuanCafe.pdb
